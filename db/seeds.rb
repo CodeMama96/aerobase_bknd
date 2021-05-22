@@ -103,5 +103,61 @@ Part.create([
     inc: "29785",
     fsc: "5340",
     publication_date: "AUG 2013"
+}, 
+{
+    niin: "84",
+    name: "HOSE,PREFORMED",
+    inc: "17271",
+    fsc: "4720",
+    publication_date: "AUG 2013"
 },
+{
+    niin: "85",
+    name: "RETAINER",
+    inc: "77777",
+    fsc: "5330",
+    publication_date: "AUG 2013"
+},
+{
+    niin: "86",
+    name: "REDUCER,TUBE",
+    inc: "08506",
+    fsc: "4730",
+    publication_date: "AUG 2013"
+},
+{
+    niin: "87",
+    name: "CIRCUIT CARD ASSEMBLY",
+    inc: "61638",
+    fsc: "5998",
+    publication_date: "AUG 2013"
+},
+{
+    niin: "88",
+    name: "INSTALLATION KIT,AL",
+    inc: "77777",
+    fsc: "2920",
+    publication_date: "AUG 2013"
+},
+{
+    niin: "90",
+    name: "WIRE,ELECTRICAL",
+    inc: "00798",
+    fsc: "6145",
+    publication_date: "AUG 2013"
+},
+{
+    niin: "91",
+    name: "GEAR,SPUR",
+    inc: "05466",
+    fsc: "3020",
+    publication_date: "AUG 2013"
+},
+{
+    niin: "92",
+    name: "ADDITIVE,VISCOSITY",
+    inc: "77777",
+    fsc: "9150",
+    publication_date: "AUG 2013"
+}
 ])
