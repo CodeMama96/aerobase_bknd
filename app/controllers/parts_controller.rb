@@ -1,7 +1,7 @@
 class PartsController < ApplicationController
 
     def index
-        parts = Part.all 
+        parts = Part.all.sample(15)
         render json: parts.to_json(except: [:created_at, :updated_at])
     end
 
